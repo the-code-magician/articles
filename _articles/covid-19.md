@@ -34,7 +34,7 @@ Social distancing means keeping a safe space between individuals who are not fro
 
 ## Lockdowns
 
-A lockdown is the requirement for people to stay where they are. They are applied to keep people from moving around in situations when movement can put people at risk. In the context of the pandemic, the [lockdown helps minimizing the contact between people](http://socratrees.wiki/statement/1284).
+A lockdown is the requirement for people to stay where they are. They are applied to keep people from moving around in situations when movement can put people at risk. In the context of the pandemic, the [lockdown helps minimizing the contact between people](http://socratrees.wiki/statement/details/1284).
 
 The lockdowns are applied in different extents across countries, with stay-at-home orders, curfews, working from home, etc.) Shutdowns of shops, business and services help preventing the gathering of people and are part of the lockdown measures.
 
@@ -44,7 +44,7 @@ The personal protective equipment is the equipemnt worn to minimize the exposure
 
 ### Wahsing the hands, alcohol gel and other desinfectants
 
-One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/1334). By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/1331). 
+One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334). By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/1331). 
 
 In many places, it is now common to find alcohol gel dispensers (or other kind of alcohol based desinfectant). 
 
@@ -54,7 +54,7 @@ In many places, it is now common to find alcohol gel dispensers (or other kind o
 
 # Overall effictivness of NPIs
 
-The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](http://socratrees.wiki/statement/1283).
+The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](http://socratrees.wiki/statement/details/1283).
 
 
 
