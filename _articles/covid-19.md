@@ -36,6 +36,8 @@ Social distancing means keeping a safe space between individuals who are not fro
 
 A lockdown is the requirement for people to stay where they are. They are applied to keep people from moving around in situations when movement can put people at risk. In the context of the pandemic, the [lockdown helps minimizing the contact between people](http://socratrees.wiki/statement/1284/a-lockdown-minimizes-contact-between-people).
 
+The lockdowns are applied in different extents across countries, with stay-at-home orders, curfews, working from home, etc.) Shutdowns of shops, business and services help preventing the gathering of people and are part of the lockdown measures.
+
 ## Personal protective gear
 
 ## Contact tracing
