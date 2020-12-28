@@ -40,6 +40,8 @@ The infection by SARS-Cov-2 can lead to three outcomes:
 
 # Overall effictivness of NPIs
 
+The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](https://socratrees.azurewebsites.net/statement/1283/during-a-pandemic,-early-lockdown-measures-save-a-lot-of-lifes).
+
 # Research developments
 
 
