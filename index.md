@@ -18,3 +18,7 @@ Many people believe [pineapple does not belong on pizza](http://socratrees.wiki/
 Some have spread misinformation that [pizza was invented to use up leftovers from the previous day](http://socratrees.wiki/statement/details/890), and while [this might sound logical](http://socratrees.wiki/statement/details/891), it [definitely is not how pizza originated](http://socratrees.wiki/statement/details/890?inverse=true).
 Regardless, [Hawaiian pizza is widely available across the world](http://socratrees.wiki/statement/details/1074) and, for example, [very popular in Australia](http://socratrees.wiki/statement/details/790).
 In the end, [it is up to the individual to decide what to put on their pizza](http://socratrees.wiki/statement/details/885).
+
+## Collection of articles
+
+{{ "/articles.md" | relative_url }}
