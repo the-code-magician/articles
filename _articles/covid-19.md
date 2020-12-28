@@ -56,9 +56,9 @@ In many places, it is now common to find alcohol gel dispensers (or other kind o
 
 The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](http://socratrees.wiki/statement/details/1283).
 
-
+The effectiveness of the using face masks has been a topic of disagreement. [Face masks alone, do not prevent the spread of the virus.](https://socratrees.azurewebsites.net/statement/details/1330) However, a study<sup>[[1]](#leffler)</sup>
 
 # Research developments
 
-
+<a name="leffler">[1]</a>:Leffler, C. T. et al. Preprint at medRxiv https://doi.org/10.1101/2020.05.22.20109231 (2020).
 
