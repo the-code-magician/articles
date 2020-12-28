@@ -44,7 +44,7 @@ The personal protective equipment is the equipemnt worn to minimize the exposure
 
 ### Wahsing the hands, alcohol gel and other desinfectants
 
-One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334). By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/1details/331). 
+One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334). By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/details/331). 
 
 In many places, it is now common to find alcohol gel dispensers (or other kind of alcohol based desinfectant). 
 
