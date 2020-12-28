@@ -6,5 +6,5 @@ description: A collection of articles.
 List of articles:
 
 {% for article in site.articles %}
-  * [{{ article.title }} - {{ article.description }}]({{ article.relative_url }}/ {{ article.url }})
+  * [{{ article.title }} - {{ article.description }}](articles/{{ article.url }})
 {% endfor %}
