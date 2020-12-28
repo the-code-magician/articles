@@ -30,6 +30,12 @@ The infection by SARS-Cov-2 can lead to three outcomes:
 
 ## Social distancing
 
+Social distancing means keeping a safe space between individuals who are not from the same household.
+
+## Lockdowns
+
+A lockdown is the requirement for people to stay where they are. They are applied to keep people from moving around in situations when movement can put people at risk. In the context of the pandemic, the [lockdown helps minimizing the contact between people](http://socratrees.wiki/statement/1284/a-lockdown-minimizes-contact-between-people).
+
 ## Personal protective gear
 
 ## Contact tracing
@@ -40,7 +46,7 @@ The infection by SARS-Cov-2 can lead to three outcomes:
 
 # Overall effictivness of NPIs
 
-The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](https://socratrees.azurewebsites.net/statement/1283/during-a-pandemic,-early-lockdown-measures-save-a-lot-of-lifes).
+The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](http://socratrees.wiki/statement/1283/during-a-pandemic,-early-lockdown-measures-save-a-lot-of-lifes).
 
 # Research developments
 
