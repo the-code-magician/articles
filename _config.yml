@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Socratrees Articles
 description: Articles which use Socratrees to represent arguments contained in their writing.
+collections:
+  directory: articles
