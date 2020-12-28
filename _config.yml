@@ -3,5 +3,4 @@ title: Socratrees Articles
 description: Articles which use Socratrees to represent arguments contained in their writing.
 collections:
   articles:
-    directory: articles/
     output: true
