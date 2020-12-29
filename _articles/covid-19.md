@@ -30,6 +30,8 @@ The infection by SARS-Cov-2 can lead to three outcomes:
 
 ## Social distancing
 
+![Social Distancing](https://cdn.pixabay.com/photo/2020/03/31/12/43/social-distancing-4987507_1280.png)
+
 Social distancing means keeping a safe space between individuals who are not from the same household. Social distancing measures include keeping a distance of 1.5-2 meters from people, avoid hugs, handshakes, kisses and other tradional ways of greeting that require direct contact.
 
 ## Lockdowns
@@ -39,6 +41,9 @@ A lockdown is the requirement for people to stay where they are. They are applie
 The lockdowns are applied in different extents across countries, with stay-at-home orders, curfews, working from home, etc.) Shutdowns of shops, business and services help preventing the gathering of people and are part of the lockdown measures.
 
 ## Personal protective equipment and increased sanitary measures
+
+![Face Masks](https://pixabay.com/get/53e3d6444256aa14f1dc8460da29317e1c3ddee4555477_640.png)
+
 
 The personal protective equipment is the equipemnt worn to minimize the exposure to hazards. This include face masks, face shields, gloves, aprons, etc. They are meant to keep the virus from reaching the nose, month and eyes. In many countries, it became mandatory to use face masks in public areas (mostly indoors).
 
