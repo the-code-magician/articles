@@ -49,11 +49,13 @@ The personal protective equipment is the equipemnt worn to minimize the exposure
 
 ### Wahsing the hands, alcohol gel and other desinfectants
 
-One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334) <sup>[[2]](#healthline-face)</sup>. By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/details/331).
+One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334) <sup>[[2]](#healthline-face)</sup>. By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our hands oftenly, [we prevent the spread of COVID-19](http://socratrees.wiki/statement/details/331).
 
 In many places, it is now common to find alcohol gel dispensers (or other kind of alcohol based desinfectant).
 
 ## Contact tracing
+
+Another way to prevent the spread of the virus e is to identify contacts with infected individuals.
 
 ## Increased medical staff
 
@@ -61,7 +63,7 @@ In many places, it is now common to find alcohol gel dispensers (or other kind o
 
 The most effective interventions are curfews, closing schools, restaurants and shops, and working from home. These lockdown measures [can be more effective if applied earlier](http://socratrees.wiki/statement/details/1283).
 
-The effectiveness of the using face masks has been a topic of disagreement. [Face masks alone, do not prevent the spread of the virus.](https://socratrees.azurewebsites.net/statement/details/1330) However, a study<sup>[[2]](#leffler)</sup>
+The effectiveness of the using face masks has been a topic of disagreement. [Face masks alone, do not prevent the spread of the virus.](https://socratrees.azurewebsites.net/statement/details/1330) However, another study<sup>[[2]](#leffler)</sup> shows a decrease in the mortality rate in countries that implemented the use of face masks. However, mortality rate can decrease for a number of other reasons.
 
 # Research developments
 
