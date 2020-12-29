@@ -62,6 +62,6 @@ The effectiveness of the using face masks has been a topic of disagreement. [Fac
 
 
 # References
-<a name="healthline-face"></a>: Healthline.com You Probably Touch Your Face 16 Times an Hour: Here’s How to Stop, visited on December 28th, 2020.
+<a name="healthline-face"></a>: George Citroner at Healthline.com You Probably Touch Your Face 16 Times an Hour: Here’s How to Stop, 10-03-2020.
 <a name="leffler">[2]</a>:Leffler, C. T. et al. Preprint at medRxiv https://doi.org/10.1101/2020.05.22.20109231 (2020).
 
