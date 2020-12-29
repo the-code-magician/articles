@@ -9,7 +9,7 @@ description: Article discussing the effect of measures against COVID-19.
 In the beginning of 2020, the world became the stage for a large scientific, social and economical experiment.
 On the 31st December, 2019 cases of a pneumonia with unknown cause were reported in Wuhan, capital of the Hubei province in China. The virus, later identified as a SARS-Cov-2, causes the COVID-19 disease.
 
-Due to the lack of a vaccine, governments applied non-pharmaceutical intererventions (NPIs) to slow the spread of the virus. Among these interventions, we find common terms from every-day news, such as social distancing, personal protective equipment, increase of medical staff or contact tracing. In this article, we will explain the different measurements.
+Due to the lack of a vaccine, governments applied non-pharmaceutical intererventions (NPIs) to slow the spread of the virus. Among these interventions, we find common terms from every-day news, such as social distancing, personal protective equipment, increase of medical staff or contact tracing<sup>[[1]](#haug2020)</sup>. Deep in this article, you will find an [explanaton the different measurements](#non-pharmaceutical-interventions).
 
 These measures have been implemented to different extents with different time periods accross different countries. These measures have deep economical impacts in the society and have been criticized due to the lact of scientific evidence supporting their effictiveness.
 
@@ -30,7 +30,7 @@ The infection by SARS-Cov-2 can lead to three outcomes:
 
 ## Social distancing
 
-Social distancing means keeping a safe space between individuals who are not from the same household.
+Social distancing means keeping a safe space between individuals who are not from the same household. Social distancing measures include keeping a distance of 1.5-2 meters from people, avoid hugs, handshakes, kisses and other tradional ways of greeting that require direct contact.
 
 ## Lockdowns
 
@@ -44,9 +44,9 @@ The personal protective equipment is the equipemnt worn to minimize the exposure
 
 ### Wahsing the hands, alcohol gel and other desinfectants
 
-One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334) <sup>[[1]](#healthline-face)</sup>. By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/details/331). 
+One way of spreading the virus is through contact with droplets in contaminated surfaces. [We touch our faces unwilingly several times a day](http://socratrees.wiki/statement/details/1334) <sup>[[2]](#healthline-face)</sup>. By doing that, [we move particles from surfaces to the eyes, mouth and nose](http://socratrees.wiki/statement/details/1333). By washing our the hands oftenly, [we prevent the spread of COVID-19](https://socratrees.azurewebsites.net/statement/details/331).
 
-In many places, it is now common to find alcohol gel dispensers (or other kind of alcohol based desinfectant). 
+In many places, it is now common to find alcohol gel dispensers (or other kind of alcohol based desinfectant).
 
 ## Contact tracing
 
@@ -62,7 +62,7 @@ The effectiveness of the using face masks has been a topic of disagreement. [Fac
 
 
 # References
-<a name="haug2020">[1]</a>:Soltesz *el al.* **Ranking the effectiveness of worldwide COVID-19 government interventions**, Nature human behaviour https://www.nature.com/articles/s41562-020-01009-0 (2020)
+<a name="haug2020">[1]</a>:Haug *el al.* **Ranking the effectiveness of worldwide COVID-19 government interventions**, Nature human behaviour https://www.nature.com/articles/s41562-020-01009-0 (2020)
 <a name="healthline-face">[2]</a>:George Citroner **You Probably Touch Your Face 16 Times an Hour: Here’s How to Stop** Healthline https://www.healthline.com/health-news/how-to-not-touch-your-face (2020).
 <a name="leffler">[3]</a>:Leffler, C. T. *et al.* Preprint at medRxiv https://doi.org/10.1101/2020.05.22.20109231 (2020).
 
