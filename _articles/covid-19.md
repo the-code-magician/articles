@@ -17,6 +17,10 @@ These measures have been implemented to different extents with different time pe
 
 Severe acute respiratory syndrom (SARS) is a viral respiratory disease associated with [coronavirus](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus). The disease caused by coronavirus can lead to severe respiratory problems, including shortness of breath and pneumonia.
 
+
+The name coronavirus, comes from the fact that the virus looks like a crown shape on the microscope.
+![SARS-Cov-2](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Novel_Coronavirus_SARS-CoV-2_%2849557550781%29.jpg/320px-Novel_Coronavirus_SARS-CoV-2_%2849557550781%29.jpg)
+
 This strain, SARS-Cov-2, was identified as the the cause of the outbreak of pneumonia in China. The genetic sequence is publicly available [online](https://www.ncbi.nlm.nih.gov/sars-cov-2/).
 
 # COVID-19 symptoms and transmission
@@ -30,7 +34,7 @@ The infection by SARS-Cov-2 can lead to three outcomes:
 
 ## Social distancing
 
-![Social Distancing](https://cdn.pixabay.com/photo/2020/03/31/12/43/social-distancing-4987507_1280.png)
+![Social Distancing](https://cdn.pixabay.com/photo/2020/04/17/10/09/social-distancing-5054110_640.jpg)
 
 Social distancing means keeping a safe space between individuals who are not from the same household. Social distancing measures include keeping a distance of 1.5-2 meters from people, avoid hugs, handshakes, kisses and other tradional ways of greeting that require direct contact.
 
@@ -42,7 +46,7 @@ The lockdowns are applied in different extents across countries, with stay-at-ho
 
 ## Personal protective equipment and increased sanitary measures
 
-![Face Masks](https://pixabay.com/get/53e3d6444256aa14f1dc8460da29317e1c3ddee4555477_640.png)
+![Face Masks](https://cdn.pixabay.com/photo/2020/07/26/08/43/mouth-nose-protection-5438829_640.png)
 
 
 The personal protective equipment is the equipemnt worn to minimize the exposure to hazards. This include face masks, face shields, gloves, aprons, etc. They are meant to keep the virus from reaching the nose, month and eyes. In many countries, it became mandatory to use face masks in public areas (mostly indoors).
