@@ -74,6 +74,8 @@ The effectiveness of the using face masks has been a topic of disagreement. [Fac
 
 # References
 <a name="haug2020">[1]</a>:Haug *el al.* **Ranking the effectiveness of worldwide COVID-19 government interventions**, Nature human behaviour [https://www.nature.com/articles/s41562-020-01009-0](https://www.nature.com/articles/s41562-020-01009-0) (2020)
+
 <a name="healthline-face">[2]</a>:George Citroner **You Probably Touch Your Face 16 Times an Hour: Here’s How to Stop** Healthline [https://www.healthline.com/health-news/how-to-not-touch-your-face](https://www.healthline.com/health-news/how-to-not-touch-your-face) (2020).
-<a name="leffler">[3]</a>:Leffler, C. T. *et al.* Preprint at medRxiv [https://doi.org/10.1101/2020.05.22.20109231](https://doi.org/10.1101/2020.05.22.20109231) (2020).
+
+<a name="leffler">[3]</a>:Leffler, C. T. *et al.* **Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.** [https://doi.org/10.1101/2020.05.22.20109231](https://doi.org/10.1101/2020.05.22.20109231) (2020).
 
