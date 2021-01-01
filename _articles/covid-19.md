@@ -19,6 +19,7 @@ Severe acute respiratory syndrom (SARS) is a viral respiratory disease associate
 
 
 The name coronavirus, comes from the fact that the virus looks like a crown shape on the microscope.
+
 ![SARS-Cov-2](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Novel_Coronavirus_SARS-CoV-2_%2849557550781%29.jpg/320px-Novel_Coronavirus_SARS-CoV-2_%2849557550781%29.jpg)
 
 This strain, SARS-Cov-2, was identified as the the cause of the outbreak of pneumonia in China. The genetic sequence is publicly available [online](https://www.ncbi.nlm.nih.gov/sars-cov-2/).
