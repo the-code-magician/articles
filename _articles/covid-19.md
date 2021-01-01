@@ -1,7 +1,7 @@
 ---
 layout: default
 title: COVID-19 effectivness of non-pharmaceutical interventions
-description: Article discussing the effect of measures against COVID-19.
+description: Article discussing the effect of non-pharmaceutical measures against COVID-19.
 ---
 
 # Introduction
